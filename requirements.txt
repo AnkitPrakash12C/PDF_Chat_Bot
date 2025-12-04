@@ -1,0 +1,39 @@
+#Core Libraries
+#scikit-learn
+#numpy
+
+#Text Embedding and search
+#sentence_transformers
+#faiss-cpu
+
+#PDF Processing
+#PyMuPDF
+
+#Streamlit app
+#streamlit
+
+#OpenAI API
+#openai
+
+#Environment Variables
+#python-dotenv
+
+#Core Libraries
+scikit-learn
+numpy
+
+#Text Embedding and search
+sentence_transformers
+faiss-cpu
+
+#PDF Processing
+PyMuPDF
+
+#Streamlit app
+streamlit
+
+#Google Gemini API (UPDATED)
+google-generativeai>=0.7.0
+
+#Environment Variables
+python-dotenv
